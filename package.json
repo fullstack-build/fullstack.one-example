@@ -1,0 +1,26 @@
+{
+  "name": "fullstack.one-example",
+  "version": "0.1.0",
+  "description": "Example project: how to use fullstack.one",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fullstack-build/fullstack.one-example.git"
+  },
+  "keywords": [
+    "fullstack.one",
+    "example"
+  ],
+  "author": "Eugene <opensource@terehov.de> (http://fullstack.build)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fullstack-build/fullstack.one-example/issues"
+  },
+  "homepage": "https://github.com/fullstack-build/fullstack.one-example#readme",
+  "dependencies": {
+    "fullstack.one": "git+https://github.com/fullstack-build/fullstack.one.git"
+  }
+}
