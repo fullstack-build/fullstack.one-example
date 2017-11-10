@@ -30,7 +30,8 @@
     "@types/dotenv": "^4.0.2",
     "@types/node": "^8.0.31",
     "git-hooks": "^1.1.9",
-    "tslint": "^5.8.0"
+    "tslint": "^5.8.0",
+    "tslint-config-airbnb": "^5.3.0"
   },
   "dependencies": {
     "dotenv": "^4.0.0",
