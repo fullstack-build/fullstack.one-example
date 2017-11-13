@@ -1,3 +1,4 @@
-const fullstack = require('../fullstack.one');
+import { FullstackOne } from '../../packages/core/main';
+const fullstackOneCore = FullstackOne.getInstance();
 
-console.log(fullstack);
+console.log('!!!', fullstackOneCore.getApp());
